@@ -3,7 +3,7 @@
 Bluestock Fintech — Mutual Fund Analytics Platform
 Day 1: Data Ingestion & Quality Validation
 File   : data_ingestion.py
-Author : <Your Name>
+Author : Shahin Shafi H
 Date   : 2026-06
 ============================================================
 Purpose:

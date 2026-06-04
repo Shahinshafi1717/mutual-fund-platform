@@ -3,7 +3,7 @@
 Bluestock Fintech — Mutual Fund Analytics Platform
 Day 1: Live NAV Fetcher
 File   : live_nav_fetch.py
-Author : <Your Name>
+Author : Shahin Shafi H
 Date   : 2026-06
 ============================================================
 Purpose:
